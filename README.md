@@ -4,7 +4,7 @@
  <p align="center">
     <a href="https://miftahganzz.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=AI+ChatBot+Created+Miftah+GanzZ+🌐"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=AI+ChatBot+Created+By+Miftah+GanzZ+🌐"
             alt="Miftah GanzZ"
         />
     </a>
@@ -61,7 +61,7 @@
 ----------
 # How To Use
 1. Get Telegram Bot Tokens from @BotFather.
-2. Get the API Key from the [Miftah API] website (https://api-miftah.xyz)
+2. Get the API Key from the [Miftah API](https://api-miftah.xyz)
 3. Download or copy this Telegram bot code.
 4. Install the dependencies by running `npm install`.
 5. Configure the bot token and API key in the `config.js` file.
