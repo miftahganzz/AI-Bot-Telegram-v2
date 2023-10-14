@@ -1,0 +1,30 @@
+{
+  "name": "chatbot-telegram",
+  "version": "3.0.0",
+  "description": "Telegram bot with AI feature, from Rest API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "openai",
+    "simi",
+    "bard"
+  ],
+  "author": "Miftah GanzZ",
+  "base": "https://github.com/miftahganzz/",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.0",
+    "chalk-animation": "^2.0.3",
+    "cross-fetch": "3.0.6",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "node-telegram-bot-api": "^0.56.0",
+    "perf_hooks": "^0.0.1",
+    "telegraf": "^4.12.2"
+  }
+}
