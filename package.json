@@ -14,7 +14,7 @@
     "bard"
   ],
   "author": "Miftah GanzZ",
-  "base": "https://github.com/miftahganzz/",
+  "base": "https://github.com/miftahganzz/AI-Bot-Telegram-v2",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.24.0",
