@@ -1,24 +1,24 @@
 module.exports = {
-  botToken: '6064499783:AAFE5igifDGWLTRShyzm6H_P2D9oora4fRY', //bot token dari bot father
+  botToken: '', //bot token from bot father
 //============================================
-  miftahkey: 'miftah', // apikey api-miftah.xyz
-  miftahkey2: 'miftah', // Apikey api.miftahganzz.my.id (default: free or global)
+  miftahkey: 'your_apikey', // apikey api-miftah.xyz
+  miftahkey2: 'free', // Apikey api.miftahganzz.my.id (default: free or global)
   apimiftah: 'https://api-miftah.xyz',
   apimiftah2: 'https://api.miftahganzz.my.id',
 //============================================
-  langsimi: 'id',
-  versi: '2.1.0', // versi bot
+  langsimi: 'id', // language simi
+  versi: '2.1.0', // version bot
   prefix: '/',
-  groupChatId: '-1001965556417',
-  grupUrl: 'https://t.me/miftahgrup',
+  groupChatId: '', // your id grup
+  grupUrl: 'https://t.me/miftahgrup', // your link grup
 //============================================
-  web1: 'https://s.id/miftahbotz',
-  web2: 'https://api-miftah.xyz',
+  web1: 'https://s.id/miftahbotz', // web 1 
+  web2: 'https://api-miftah.xyz', // web 2
 //============================================
   ownerContact: {
-    ownerChatID: '5675049989', // id tele owner
-    username: 'Miftah GanzZ',
-    phoneNumber: '6282219148083', //nomor tele 
+    ownerChatID: '', // id telegram owner
+    username: 'Miftah GanzZ', // username telegram
+    phoneNumber: '', //number tele 
     firstName: 'Miftah', //nama depan
     lastName: 'GanzZ', // nama belakang
   },
